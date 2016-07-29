@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEEPOApp", "BEEPOApp\BEEPOApp.csproj", "{BCA82606-A0F5-464C-8374-3407B35AEDE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEEPOApp.Tests", "BEEPOApp.Tests\BEEPOApp.Tests.csproj", "{1CECA7A5-8A80-4711-8D41-75A4480B2093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA82606-A0F5-464C-8374-3407B35AEDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA82606-A0F5-464C-8374-3407B35AEDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA82606-A0F5-464C-8374-3407B35AEDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA82606-A0F5-464C-8374-3407B35AEDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CECA7A5-8A80-4711-8D41-75A4480B2093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CECA7A5-8A80-4711-8D41-75A4480B2093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CECA7A5-8A80-4711-8D41-75A4480B2093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CECA7A5-8A80-4711-8D41-75A4480B2093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
